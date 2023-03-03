@@ -15,3 +15,22 @@ body {
 }
 
 /* your CSS below! */
+
+td {
+  background-color: lightgray;
+  height:50px;
+  width:50px;
+}
+
+.skyblue {
+  background-color: skyblue;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.yellow {
+  background-color: yellow;
+}
+

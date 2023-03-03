@@ -19,8 +19,8 @@ newRow.addEventListener("click", makeRow);
 
 const colorize = (event) => {
     let target = event.target;
-    if(target.className.length){
-        target.className = ''
+    if(target.className === color){
+        target.className = "";
     }
     else {
         target.className = color;
